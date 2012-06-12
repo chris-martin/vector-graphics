@@ -6,7 +6,7 @@ through photographs of a relevant Facebook group. Something
 about the comedy of including the tree intrigued me, and I
 produced this.
 
-.. image:: planking.svg
+.. image:: https://raw.github.com/chris-martin/vector-graphics/master/planking/planking.svg
    :width: 839px
    :height: 381px
    :align: center
